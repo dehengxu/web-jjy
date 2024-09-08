@@ -1,5 +1,5 @@
 (function() {
-    var freq = 22833;//13333;
+    var freq = 13333;
     var ctx;
     var signal;
 
